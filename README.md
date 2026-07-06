@@ -130,7 +130,8 @@ A completely unique website designed and developed from scratch according to the
 
 **Optional Add-ons** *(depends on requirements)*
 
-- CMS (Content Management System) — ₹12,000
+- **CMS (Content Management System) — ₹12,000**
+  A simple admin panel that lets the client update their own website — like changing text, images, or adding new blog posts/services — without needing a developer. Recommend this if the client says things like "I want to update the website myself" or "I'll be adding new content often."
 
 > ✅ Always understand the client's requirements before sharing the final quotation.
 
